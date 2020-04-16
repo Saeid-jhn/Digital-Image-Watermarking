@@ -28,8 +28,6 @@ The following attacks are considred:
 |          Sharpening attack | Sharpening (strength = 0.8)
 |            Rotation attack | Rotation (2 degree)
 
-### Results ###
-
 ## Support ##
 If you find this repository helpful, please star and fork it to support me.
 ## Contribution ##
