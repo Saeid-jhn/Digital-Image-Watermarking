@@ -14,9 +14,8 @@ First, in the embedding process, the host image is modified to embed watermark i
 
 
 |                     Attack | Specification
-|--------------------------- | --------------------------------
+|--------------------------: | :-------------------------------
 |              Filter attack | Median filter (3 × 3)
-|                            | Gaussian Low-pass filter (3 × 3)
 |                            | Gaussian Low-pass filter (3 × 3)
 |                            | Average filter (3 × 3)
 |               Noise attack | Gaussian noise ( var = 0.001)
