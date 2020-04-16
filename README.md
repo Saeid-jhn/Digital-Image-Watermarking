@@ -28,6 +28,8 @@ The following attacks are considred:
 |          Sharpening attack | Sharpening (strength = 0.8)
 |            Rotation attack | Rotation (2 degree)
 
+### Results ###
+
 ## Support ##
 If you find this repository helpful, please star and fork it to support me.
 ## Contribution ##
@@ -41,5 +43,7 @@ Contributions are always welcome!
 Thanks for your suggestions!
 ## Contact ##
 For questions, please open a new issue in the [issues list](https://github.com/Saeid-jhn/Digital-Image-Watermarking/issues).
+## Authors ##
+* Saeid Jahandar [LinkedIn](https://www.linkedin.com/in/saeid-jahandar/)
 ## License ##
 This project is distributed under [Apache License 2.0](https://github.com/Saeid-jhn/Digital-Image-Watermarking/blob/master/LICENSE)
