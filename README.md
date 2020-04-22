@@ -51,5 +51,7 @@ Thanks for your suggestions!
 For questions, please open a new issue in the [issues list](https://github.com/Saeid-jhn/Digital-Image-Watermarking/issues).
 ## Authors ##
 * Saeid Jahandar [LinkedIn](https://www.linkedin.com/in/saeid-jahandar/)
+## Reference
+J. Liu et al., "An Optimized Image Watermarking Method Based on HD and SVD in DWT Domain," in IEEE Access, vol. 7, pp. 80849-80860, 2019. [Cite](https://ieeexplore.ieee.org/document/8709684)
 ## License ##
 This project is distributed under [Apache License 2.0](https://github.com/Saeid-jhn/Digital-Image-Watermarking/blob/master/LICENSE)
