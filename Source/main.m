@@ -1,6 +1,10 @@
 %% Digital image watermarking
+%  Digital Image Watermarking method based on hybrid DWT-HD-SVD Technique: 
+%  Attacks, PSNR, SSIM, NC
 %  
-%
+%  Source: https://github.com/Saeid-jhn/Digital-Image-Watermarking
+%  Referance paper: https://ieeexplore.ieee.org/document/8709684)
+%  Author: Saeid Jahandar
 %% Intilize
 clc
 clear
@@ -226,7 +230,6 @@ for j = 1:length(attacks)
     hold off
     grid on
     ylim(y);
-%     xlim(x);
     xticks(params);
     xticklabels(ticks);
     xlabel(label);
