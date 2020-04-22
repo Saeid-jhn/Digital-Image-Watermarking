@@ -33,8 +33,8 @@ The following attacks are considred:
 * Run [**main.m**](https://github.com/Saeid-jhn/Digital-Image-Watermarking/blob/master/Source/main.m) file in MATLAB. It is recommended to run it section by section; otherwise you would need to wait whole code to run.
 * The initial sections merely, run code to illustrate the proposed watermarking method.
 * The mid sections, plots NC, PSNR, SSIM values for each alpha (Fig. 5, 6 and 7 [paper](https://ieeexplore.ieee.org/document/8709684)).
-* Last sections, evaluates the invisibility and robustness of the watermarked image and extracted watermark logo, for different watermark image size under various attacks (fig. 8, 9, and 10 [paper](https://ieeexplore.ieee.org/document/8709684)).
-* Finally, the NC value of different attack parameters are evaluated for each attack (fig. 11 [paper](https://ieeexplore.ieee.org/document/8709684)).
+* Last sections, evaluates the invisibility and robustness of the watermarked image and extracted watermark logo, for different watermark image size under various attacks (fig. 8, [9](https://github.com/Saeid-jhn/Digital-Image-Watermarking/blob/master/Figures/Fig09.png), and [10](https://github.com/Saeid-jhn/Digital-Image-Watermarking/blob/master/Figures/Fig10.png) [paper](https://ieeexplore.ieee.org/document/8709684)).
+* Finally, the NC value of different attack parameters are evaluated for each attack (fig. [11](https://github.com/Saeid-jhn/Digital-Image-Watermarking/blob/master/Figures/Fig11.png) [paper](https://ieeexplore.ieee.org/document/8709684)).
 
 ## Support ##
 If you find this repository helpful, please star and fork it to support me.
