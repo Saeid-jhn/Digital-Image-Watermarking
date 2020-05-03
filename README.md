@@ -45,7 +45,6 @@ Contributions are always welcome!
 3. If you are going to add a new method, please use same syntax and structure.
 4. Commit the changes to your forked repository.
 5. Submit a pull request adding details about your modification.
-
 Thanks for your suggestions!
 ## Contact ##
 For questions, please open a new issue in the [issues list](https://github.com/Saeid-jhn/Digital-Image-Watermarking/issues).
