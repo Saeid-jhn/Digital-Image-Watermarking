@@ -25,8 +25,8 @@ title('Watermark image: 256 x 256');
 %% Example: watermark embedding and exraction  alpha=0.1 Attack: Sharpening
 method = 'DWT-HD-SVD';          % Apply 'DWT-HD-SVD Method
 alpha = 0.1;
-attack = 'Sharpening attack';   % You can choose other attacks
-param = 0.8;                    % attack parameter
+attack = 'Motion blur';   % You can choose other attacks
+param = 0.5;                    % attack parameter
 [watermarked_image, extracted_watermark] = watermark(cover_image,...
     watermark_logo,method,alpha,attack,param);
 
